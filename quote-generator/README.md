@@ -3,7 +3,7 @@
     <p>This is a simple quote generator built with ReactJS and Axios</p>
 </div>
 
-![demo](./public/quotegenerator.PNG)
+![demo](./public/quotegenerator.png)
 
 ## Run it on your machine
 
